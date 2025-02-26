@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, React.js, Tailwind CSS**
 
-- 📫 How to reach me **shrivastavakarmanshi2002@gmail.com**
+- 📫 How to reach me **karmanshishrivastava20@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/karmanshi/karmanshi/blob/main/Resume-Karmanshi-Shrivastava.pdf](https://github.com/karmanshi/karmanshi/blob/main/Resume-Karmanshi-Shrivastava.pdf)
 
