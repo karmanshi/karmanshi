@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/karmanshi/](https://github.com/karmanshi/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/karmanshi/)
 
 - 💬 Ask me about **JavaScript, React.js, Tailwind CSS**
 
 - 📫 How to reach me **karmanshishrivastava20@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/karmanshi/karmanshi/blob/main/Resume-Karmanshi-Shrivastava.pdf](https://github.com/karmanshi/karmanshi/blob/main/Resume-Karmanshi-Shrivastava.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15FX8M8_OQRwfCxI7_VsvFqzja3yUgjLU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
